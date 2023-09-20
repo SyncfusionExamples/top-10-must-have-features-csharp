@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add-annotation-to-PDF-document-NET", "Add-annotation-to-PDF-document-NET\Add-annotation-to-PDF-document-NET.csproj", "{22177119-BA06-4CD3-9720-64E6025451CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22177119-BA06-4CD3-9720-64E6025451CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22177119-BA06-4CD3-9720-64E6025451CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22177119-BA06-4CD3-9720-64E6025451CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22177119-BA06-4CD3-9720-64E6025451CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {972F86D3-968D-4D4E-8BE2-EBA84661FCF8}
+	EndGlobalSection
+EndGlobal

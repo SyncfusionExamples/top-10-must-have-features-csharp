@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sign-the-PDF-document-NET", "Sign-the-PDF-document-NET\Sign-the-PDF-document-NET.csproj", "{EFFD218C-18C6-4CF7-9FEA-747D9EA01747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFFD218C-18C6-4CF7-9FEA-747D9EA01747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFFD218C-18C6-4CF7-9FEA-747D9EA01747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFFD218C-18C6-4CF7-9FEA-747D9EA01747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFFD218C-18C6-4CF7-9FEA-747D9EA01747}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E13659C2-7481-4CC3-ACFD-89AE2D6F8F0A}
+	EndGlobalSection
+EndGlobal
