@@ -16,20 +16,22 @@ The Syncfusion .NET PDF library provides an extensive range of functionalities f
 
 Sample name | Description
 --- | ---
-[Create PDF document]() | Generate a basic PDF document containing text, images, and shapes.
-[PDF data extraction]() | Extract text, images, document information, and metadata from an existing PDF document. 
-[Text manipulation]() | Add text, find text, and extract text in PDF document. 
-[Page management]() | Manipulate pages within a PDF document by inserting, removing, and rearranging them, as well as merging and splitting the PDF as needed.
-[Convert TIFF to PDF]() | Convert TIFF to PDF document. 
-[Add annotation to PDF]() | Add annotation to the PDF document. 
-[Create PDF form]() | Create a simple form in PDF document. 
-[Fill PDF form fields]() | Fill form fields in an existing PDF document. 
-[Encrypt PDF document]() | Encrypt PDF document using user password. 
-[Decrypt PDF document]() | The decryption process requires the correct password (user or owner) to access the content.  
-[Sign PDF document]() | Add digital signature to the PDF document. 
-[OCR sample]() | Convert a entire scanned PDF document into a searchable PDF document. 
-[Text to PDF]() | Convert a text into the PDF document. 
-[PDF to text]() | Convert the PDF document into text. 
+[Create PDF document](https://github.com/SyncfusionExamples/top-10-must-have-features-csharp/tree/master/Create-PDF-document) | Generate a basic PDF document containing text, images, and shapes.
+[PDF data extraction](https://github.com/SyncfusionExamples/top-10-must-have-features-csharp/tree/master/PDF-parsing-sample) | Extract text, images, document information, and metadata from an existing PDF document. 
+[Text manipulation](https://github.com/SyncfusionExamples/top-10-must-have-features-csharp/tree/master/Text-manipulation-in-PDF-NET) | Add text, find text, and extract text in PDF document. 
+[Page management](https://github.com/SyncfusionExamples/top-10-must-have-features-csharp/tree/master/Page-manipulation-in-PDF-NET) | Manipulate pages within a PDF document by inserting, removing, and rearranging them, as well as merging and splitting the PDF as needed.
+[Merge PDF documents](https://github.com/SyncfusionExamples/top-10-must-have-features-csharp/tree/master/Merge-PDF-documents-NET) | Merge multiple PDF documents into a single PDF document.
+[Split PDF document](https://github.com/SyncfusionExamples/top-10-must-have-features-csharp/tree/master/Split-PDF-document-NET) | Split large PDF document into multiple PDF documents. 
+[Convert TIFF to PDF](https://github.com/SyncfusionExamples/top-10-must-have-features-csharp/tree/master/Convert-TIFF-to-PDF-NET) | Convert TIFF to PDF document. 
+[Add annotation to PDF](https://github.com/SyncfusionExamples/top-10-must-have-features-csharp/tree/master/Add-annotation-to-PDF-document-NET) | Add annotation to the PDF document. 
+[Create PDF form](https://github.com/SyncfusionExamples/top-10-must-have-features-csharp/tree/master/Create-PDF-form-NET) | Create a simple form in PDF document. 
+[Fill PDF form fields](https://github.com/SyncfusionExamples/top-10-must-have-features-csharp/tree/master/Fill_form_fields_in_PDF_NET) | Fill form fields in an existing PDF document. 
+[Encrypt PDF document](https://github.com/SyncfusionExamples/top-10-must-have-features-csharp/tree/master/Encrypting-PDF-document-NET) | Encrypt PDF document using user password. 
+[Decrypt PDF document](https://github.com/SyncfusionExamples/top-10-must-have-features-csharp/tree/master/Decrypting-PDF-document-NET) | The decryption process requires the correct password (user or owner) to access the content.  
+[Sign PDF document](https://github.com/SyncfusionExamples/top-10-must-have-features-csharp/tree/master/Sign-the-PDF-document-NET) | Add digital signature to the PDF document. 
+[OCR sample](https://github.com/SyncfusionExamples/top-10-must-have-features-csharp/tree/master/OCR-on-entire-PDF-document) | Convert a entire scanned PDF document into a searchable PDF document. 
+[Text to PDF](https://github.com/SyncfusionExamples/top-10-must-have-features-csharp/tree/master/Convert-text-to-PDF-file-NET) | Convert a text into the PDF document. 
+[PDF to text](https://github.com/SyncfusionExamples/top-10-must-have-features-csharp/tree/master/Convert-PDF-to-text-NET) | Convert the PDF document into text. 
 
 ## PDF Creation
 
