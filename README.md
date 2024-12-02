@@ -1,6 +1,6 @@
 # Top 10 Must-Have Features in a C# PDF Library
 
-The Syncfusion .NET PDF library provides an extensive range of functionalities for seamless handling of PDF creation, manipulation, and management.  Explore this repository to delve into each feature, find implementation examples, and harness the potential of Syncfusion PDF Library in your applications.Some of the use cases that we will cover in this article include:
+The Syncfusion&reg; .NET PDF library provides an extensive range of functionalities for seamless handling of PDF creation, manipulation, and management.  Explore this repository to delve into each feature, find implementation examples, and harness the potential of Syncfusion&reg; PDF Library in your applications.Some of the use cases that we will cover in this article include:
 
 * PDF Creation 
 * Text Manipulation
@@ -35,7 +35,7 @@ Sample name | Description
 
 ## PDF Creation
 
-Syncfusion .NET PDF library provides a powerful solution that empowers you to generate PDFs and seamlessly integrate text, images, and diverse elements, infusing vitality into your documents.
+Syncfusion&reg; .NET PDF library provides a powerful solution that empowers you to generate PDFs and seamlessly integrate text, images, and diverse elements, infusing vitality into your documents.
 
 ```csharp
 
@@ -83,7 +83,7 @@ document.Close(true);
 
 ## PDF data extraction 
 
-The Syncfusion Essential PDF library provides a comprehensive set of APIs for parsing PDF files. These APIs can be used to extract text, images, metadata, or perform more advanced tasks. 
+The Syncfusion&reg; Essential&reg; PDF library provides a comprehensive set of APIs for parsing PDF files. These APIs can be used to extract text, images, metadata, or perform more advanced tasks. 
 
 ```csharp
 
@@ -159,7 +159,7 @@ loadedDocument.Close(true);
 
 ## Page management 
 
-Syncfusion provides a comprehensive set of APIs for managing pages in PDF documents. These APIs can be used to add, insert, remove, rotate, and rearrange pages, page splitting, page scaling, page reordering, page numbering, merge, and split PDF documents. 	
+Syncfusion&reg; provides a comprehensive set of APIs for managing pages in PDF documents. These APIs can be used to add, insert, remove, rotate, and rearrange pages, page splitting, page scaling, page reordering, page numbering, merge, and split PDF documents. 	
 
 ```csharp
 
@@ -188,7 +188,7 @@ loadedDocument.Close(true);
 
 ### Merge PDF documents 
 
-Merging PDF files from two different documents into a single, organized file is a handy skill to have. Fortunately, it's an easy process that can be accomplished with just a few simple steps using Syncfusion .NET PDF library. 
+Merging PDF files from two different documents into a single, organized file is a handy skill to have. Fortunately, it's an easy process that can be accomplished with just a few simple steps using Syncfusion&reg; .NET PDF library. 
 
 ```csharp
 
@@ -245,7 +245,7 @@ using (FileStream inputFileStream = new FileStream("Input.pdf", FileMode.Open, F
 
 ## Graphics and images 
 
-Syncfusion provides a wide range of robust tools and capabilities for unlocking the complete potential of graphics and images.
+Syncfusion&reg; provides a wide range of robust tools and capabilities for unlocking the complete potential of graphics and images.
 
 **Adding images:** You have the flexibility to insert, resize, and crop images sourced from diverse locations, such as files on your computer or online resources. Additionally, you can perform tasks like image masking, image pagination, image replacement, conversion from multi-page TIFF to PDF, and image removal.
 [https://help.syncfusion.com/file-formats/pdf/working-with-images](https://help.syncfusion.com/file-formats/pdf/working-with-images)
@@ -425,7 +425,7 @@ using (FileStream outputFileStream = new FileStream("Output.pdf", FileMode.Creat
 
 ## Optical Character Recognition (OCR)
 
-The Syncfusion .NET Optical Character Recognition (OCR) Library allows users to extract textual information from images, PDF files, or other scanned documents, making the content searchable, editable, and accessible. 
+The Syncfusion&reg; .NET Optical Character Recognition (OCR) Library allows users to extract textual information from images, PDF files, or other scanned documents, making the content searchable, editable, and accessible. 
 
 ```csharp
 
@@ -453,7 +453,7 @@ using (OCRProcessor processor = new OCRProcessor())
 
 ### Text-to-PDF document
 
-The Syncfusion library empowers you to convert text into a PDF document, and you can achieve this using the following code example.  
+The Syncfusion&reg; library empowers you to convert text into a PDF document, and you can achieve this using the following code example.  
 
 ```csharp
 
@@ -506,22 +506,22 @@ loadedDocument.Close(true);
 * Run the application.
 
 # Resources
-*   **Product page:** [Syncfusion PDF Framework](https://www.syncfusion.com/document-processing/pdf-framework/net)
-*   **Documentation page:** [Syncfusion .NET PDF library](https://help.syncfusion.com/file-formats/pdf/overview)
-*   **Online demo:** [Syncfusion .NET PDF library - Online demos](https://ej2.syncfusion.com/aspnetcore/PDF/CompressExistingPDF#/bootstrap5)
-*   **Blog:** [Syncfusion .NET PDF library - Blog](https://www.syncfusion.com/blogs/category/pdf)
-*   **Knowledge Base:** [Syncfusion .NET PDF library - Knowledge Base](https://www.syncfusion.com/kb/windowsforms/pdf)
-*   **EBooks:** [Syncfusion .NET PDF library - EBooks](https://www.syncfusion.com/succinctly-free-ebooks)
-*   **FAQ:** [Syncfusion .NET PDF library - FAQ](https://www.syncfusion.com/faq/)
+*   **Product page:** [Syncfusion&reg; PDF Framework](https://www.syncfusion.com/document-processing/pdf-framework/net)
+*   **Documentation page:** [Syncfusion&reg; .NET PDF library](https://help.syncfusion.com/file-formats/pdf/overview)
+*   **Online demo:** [Syncfusion&reg; .NET PDF library - Online demos](https://ej2.syncfusion.com/aspnetcore/PDF/CompressExistingPDF#/bootstrap5)
+*   **Blog:** [Syncfusion&reg; .NET PDF library - Blog](https://www.syncfusion.com/blogs/category/pdf)
+*   **Knowledge Base:** [Syncfusion&reg; .NET PDF library - Knowledge Base](https://www.syncfusion.com/kb/windowsforms/pdf)
+*   **EBooks:** [Syncfusion&reg; .NET PDF library - EBooks](https://www.syncfusion.com/succinctly-free-ebooks)
+*   **FAQ:** [Syncfusion&reg; .NET PDF library - FAQ](https://www.syncfusion.com/faq/)
 
 # Support and feedback
-*   For any other queries, reach our [Syncfusion support team](https://www.syncfusion.com/support/directtrac/incidents/newincident?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples) or post the queries through the [community forums](https://www.syncfusion.com/forums?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples).
-*   Request new feature through [Syncfusion feedback portal](https://www.syncfusion.com/feedback?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples).
+*   For any other queries, reach our [Syncfusion&reg; support team](https://www.syncfusion.com/support/directtrac/incidents/newincident?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples) or post the queries through the [community forums](https://www.syncfusion.com/forums?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples).
+*   Request new feature through [Syncfusion&reg; feedback portal](https://www.syncfusion.com/feedback?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples).
 
 # License
 This is a commercial product and requires a paid license for possession or use. Syncfusion’s licensed software, including this component, is subject to the terms and conditions of [Syncfusion's EULA](https://www.syncfusion.com/eula/es/?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples). You can purchase a licnense [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples) or start a free 30-day trial [here](https://www.syncfusion.com/account/manage-trials/start-trials?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples).
 
 # About Syncfusion
-Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 26,000+ customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
+Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion&reg; has more than 26,000+ customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
 
 Today, we provide 1600+ components and frameworks for web ([Blazor](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [ASP.NET Core](https://www.syncfusion.com/aspnet-core-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [ASP.NET MVC](https://www.syncfusion.com/aspnet-mvc-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [ASP.NET WebForms](https://www.syncfusion.com/jquery/aspnet-webforms-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [JavaScript](https://www.syncfusion.com/javascript-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [Angular](https://www.syncfusion.com/angular-ui-components?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [React](https://www.syncfusion.com/react-ui-components?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [Vue](https://www.syncfusion.com/vue-ui-components?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), and [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)), mobile ([Xamarin](https://www.syncfusion.com/xamarin-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [UWP](https://www.syncfusion.com/uwp-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), and [JavaScript](https://www.syncfusion.com/javascript-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)), and desktop development ([WinForms](https://www.syncfusion.com/winforms-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [WPF](https://www.syncfusion.com/wpf-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [WinUI(Preview)](https://www.syncfusion.com/winui-controls?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples) and [UWP](https://www.syncfusion.com/uwp-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)). We provide ready-to-deploy enterprise software for dashboards, reports, data integration, and big data processing. Many customers have saved millions in licensing fees by deploying our software.
